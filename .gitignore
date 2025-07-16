@@ -1,0 +1,13 @@
+*.pt
+*.ckpt
+*.h5
+*.pkl
+*.csv
+*.zip
+
+logs/
+results/
+output/
+
+__pycache__/
+*.pyc
